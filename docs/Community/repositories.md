@@ -187,7 +187,7 @@ Data Collection and Representation
 <td align="left">Objective-C</td>
 <tr class="odd">
 <td align="left"><a href="https://github.com/openworm/CElegansNeuroML">CElegansNeuroML</a></td>
-<td align="left">NeuroML based C elegans model, contained in a neuroConstruct project</td>
+<td align="left">NeuroML based <i>C. elegans</i> model, contained in a neuroConstruct project</td>
 <td align="left">Java</td>
 </tr>
 <tr class="even">
@@ -197,7 +197,8 @@ Data Collection and Representation
 </tr>
 <tr class="odd">
 <td align="left"><a href="https://github.com/openworm/muscle_model">muscle_model</a></td>
-<td align="left">model of c.elegans muscle in NEURON / Python</td>
+
+<td align="left">model of <i>C.elegans</i> muscle in NEURON / Python</td>
 <td align="left">Python</td>
 </tr>
 </tbody>
